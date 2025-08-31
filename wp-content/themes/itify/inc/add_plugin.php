@@ -66,9 +66,9 @@ function my_theme_register_required_plugins() {
         [
             'name'         => esc_html__( 'Itify Core ', 'itify' ),
             'slug'         => 'itify-core',
-            'source'       => esc_url( 'https://softivuslab.com/wp/itify/source/itify-core.zip' ),
+            'source'       => esc_url( 'https://pixelaxis.net/itify/source/itify-core.zip' ),
             'required'     => true,
-            'external_url' => esc_url( 'https://softivuslab.com/wp/itify/source/itify-core.zip' ),
+            'external_url' => esc_url( 'https://pixelaxis.net/itify/source/itify-core.zip' ),
         ],
 
         [

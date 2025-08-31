@@ -1052,7 +1052,7 @@ msgid "Itify"
 msgstr ""
 
 #. Theme URI of the plugin/theme
-msgid "https://softivuslab.com/wp/itify"
+msgid "https://pixelaxis.net/itify"
 msgstr ""
 
 #. Description of the plugin/theme
