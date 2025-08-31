@@ -1,0 +1,27 @@
+@media (max-width: 991px) {
+    .postbox__title a {
+        font-size: 20px !important;
+        line-height: 30px !important;
+     
+    }
+    .postbox__meta span,.postbox__meta span a {
+        font-size: 14px;
+
+    }
+    .offcanvas-nav .offcanvas-menu .menu-item a, .offcanvas-nav .offcanvas-menu .menu-item button {
+        font-size: 20px;
+    }
+}
+@media (max-width: 420px) {
+
+}
+@media (max-width: 599px) {
+    .admin-bar .primary-navbar.navbar-active {
+        margin-top: 0 !important;
+    }
+}
+@media (min-width: 1399px) {
+    span.titletwo.d-inline-block {
+        font-size: 116px !important;
+      }
+}
