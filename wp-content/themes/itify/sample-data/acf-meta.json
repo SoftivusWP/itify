@@ -212,7 +212,9 @@
                 "allow_null": 1,
                 "ui": 0,
                 "ajax": 0,
-                "placeholder": ""
+                "placeholder": "",
+                "create_options": 0,
+                "save_options": 0
             },
             {
                 "key": "field_5efb0ded987fe",
@@ -240,7 +242,9 @@
                 "ui": 0,
                 "return_format": "value",
                 "ajax": 0,
-                "placeholder": ""
+                "placeholder": "",
+                "create_options": 0,
+                "save_options": 0
             }
         ],
         "location": [
